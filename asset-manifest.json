@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.de2da41a.css",
+    "main.js": "/my-website/static/js/main.f1232336.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my-website/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.JPG": "/my-website/static/media/avatar.00069cb7485a1980bb05.JPG",
+    "static/media/home-main.svg": "/my-website/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/UnicoreDash.png": "/my-website/static/media/UnicoreDash.5300a6f159b3d4025063.png",
+    "static/media/CV - Amir Tzibulevski.pdf": "/my-website/static/media/CV - Amir Tzibulevski.3b058d37f6182a7032f2.pdf",
+    "static/media/home-bg.jpg": "/my-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/monitoring-png.png": "/my-website/static/media/monitoring-png.46600afd4963f12124fb.png",
+    "static/media/pre.svg": "/my-website/static/media/pre.07dd681ecab6afe9e360.svg",
+    "index.html": "/my-website/index.html",
+    "main.de2da41a.css.map": "/my-website/static/css/main.de2da41a.css.map",
+    "main.f1232336.js.map": "/my-website/static/js/main.f1232336.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my-website/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2da41a.css",
+    "static/js/main.f1232336.js"
+  ]
+}
